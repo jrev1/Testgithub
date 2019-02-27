@@ -6,6 +6,7 @@ public class Test1 {
 		
 		System.out.println("Ho");
 		System.out.println("Second");
+		System.out.println("This is for pull");
 
 	}
 
